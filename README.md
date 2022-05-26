@@ -11,3 +11,5 @@ more transactions. In order to complete the transaction, he need to enter a seco
 called Transaction Pin. Customer will also be able to keep a check on his bank account
 through the ATM.
 </p>
+
+![image](https://user-images.githubusercontent.com/80913402/170502927-fac722bc-f8da-4a41-8888-122a1c30aae5.png)
