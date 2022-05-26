@@ -14,7 +14,10 @@ through the ATM.
 
 ## Screenshots of Design and Working of the System :
 <br>
-![image](https://user-images.githubusercontent.com/80913402/170503838-7e2f1693-8f1d-4c3e-ae76-07362b37419d.png)
+<img src = "https://user-images.githubusercontent.com/80913402/170503838-7e2f1693-8f1d-4c3e-ae76-07362b37419d.png">
 <br>
+<img src = "https://user-images.githubusercontent.com/80913402/170503986-21e93da3-4532-40de-b730-0de945816b89.png">
+<br>
+
 
 
