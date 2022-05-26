@@ -18,6 +18,14 @@ through the ATM.
 <br>
 <img src = "https://user-images.githubusercontent.com/80913402/170503986-21e93da3-4532-40de-b730-0de945816b89.png">
 <br>
-
-
-
+<img src = "https://user-images.githubusercontent.com/80913402/170504197-1b44ec73-172f-437d-84b5-d3b694335de4.png">
+<br>
+<img src = "https://user-images.githubusercontent.com/80913402/170504333-84ecf28f-f879-4932-80b3-c8362be61b9b.png">
+<br>
+<img src = "https://user-images.githubusercontent.com/80913402/170504366-4f1e24a6-1312-4aa9-be66-481512a6d0d5.png">
+<br>
+<img src = "https://user-images.githubusercontent.com/80913402/170504408-3f75160b-085f-4f3a-abf4-4f58b23e5709.png">
+<br>
+<img src = "https://user-images.githubusercontent.com/80913402/170504450-36a23ab2-bdde-4a15-9c3e-43b378312a31.png">
+<br>
+<img src = "https://user-images.githubusercontent.com/80913402/170504553-bf434f38-3802-420d-b396-f10fb0e4e0de.png">
