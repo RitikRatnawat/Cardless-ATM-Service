@@ -12,4 +12,9 @@ called Transaction Pin. Customer will also be able to keep a check on his bank a
 through the ATM.
 </p>
 
-![image](https://user-images.githubusercontent.com/80913402/170502927-fac722bc-f8da-4a41-8888-122a1c30aae5.png)
+## Screenshots of Design and Working of the System :
+<br>
+![image](https://user-images.githubusercontent.com/80913402/170503838-7e2f1693-8f1d-4c3e-ae76-07362b37419d.png)
+<br>
+
+
